@@ -1,0 +1,6 @@
+c:\users\felix\documents\visual studio 2010\Projects\tjessica\tjessica\bin\tjessica.dll
+c:\users\felix\documents\visual studio 2010\Projects\tjessica\tjessica\bin\tjessica.pdb
+c:\users\felix\documents\visual studio 2010\Projects\tjessica\tjessica\bin\Jessica.dll
+c:\users\felix\documents\visual studio 2010\Projects\tjessica\tjessica\obj\Debug\ResolveAssemblyReference.cache
+c:\users\felix\documents\visual studio 2010\Projects\tjessica\tjessica\obj\Debug\tjessica.dll
+c:\users\felix\documents\visual studio 2010\Projects\tjessica\tjessica\obj\Debug\tjessica.pdb
